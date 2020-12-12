@@ -1,4 +1,4 @@
-# Thinkpad P51 on Catalina 10.15.7
+# macOS Catalina 10.15.7 on Thinkpad P51
 
 Updated on December 12, 2020
 
