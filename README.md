@@ -37,7 +37,7 @@ Hardware Specs: https://psref.lenovo.com/syspool/Sys/PDF/ThinkPad/ThinkPad_P51/T
 | ULTRANAV | Trackpoint | YES | Movement is jumpy, more investigation needed. |
 | Touchpad | Touchpad | YES | VoodooPS2Controller.kext |
 | Mouse | Mouse | YES           | VoodooPS2Controller.kext |
-| Keyboard | Keyboard | YES           | VoodooPS2Controller.kext, no backlit though. |
+| Keyboard | Keyboard | YES           | VoodooPS2Controller.kext, backlit is great by backlit.kext. |
 | COLOR CALIBRATOR | | NO | Pending further exploration |
 
 
